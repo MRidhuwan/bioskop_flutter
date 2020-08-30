@@ -1,0 +1,11 @@
+Struktur Flutter Menggunakan mvvm
+Buat folder dalam “LIB”
+Folder Models
+Folder View saya memberikan nama UI sebagai view nya
+--- dalam Folder UI ada Pages, Widgets
+Folder Model View saya akan mengganti nya dengan nama bloc, bloc ini sebagai statemanajemen
+Folder shared berfungsi untuk semua yang akan dipakai diberbagai tempat
+Folder Service
+Folder Extensions untuk menaruh berbagai extensions
+
+Api yang digunakan untuk project themoviedb.org

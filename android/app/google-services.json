@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319670306698",
+    "firebase_url": "https://bioskop-flutter.firebaseio.com",
+    "project_id": "bioskop-flutter",
+    "storage_bucket": "bioskop-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319670306698:android:30fcc7c34b3a6162726a73",
+        "android_client_info": {
+          "package_name": "com.example.bioskop_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319670306698-dbc8rlg8me7noqmeul5u6hh0j5i3d08r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuWnOMvQorq5dPtw8S8DpNRw55JUp39c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319670306698-dbc8rlg8me7noqmeul5u6hh0j5i3d08r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
